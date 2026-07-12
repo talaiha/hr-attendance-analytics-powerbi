@@ -10,7 +10,7 @@
 
 ## 📌 Executive Summary
 
-> **"74 employees. 3 months of data. 7 hidden patterns that no standard HR report would catch."**
+> **"99 employees. 3 months of data. 7 hidden patterns that no standard HR report would catch."**
 
 This is not a standard attendance tracker.  
 This is a **business consultancy case study** built in Power BI — designed to answer the questions a C-suite executive asks *before* making workforce policy decisions.
@@ -25,10 +25,12 @@ AtliQ Technologies HR team needed answers to 5 critical questions:
 
 | # | Business Question | Answer Found |
 |---|-------------------|--------------|
-| 1 | Is WFH adoption under control? | ❌ No — grew 53% in 3 months, breaching 25% policy |
-| 2 | Why is absenteeism cost rising? | ❌ LWP doubled from Apr to Jun (21 → 37 days) |
-| 3 | Who are the top flight risks? | ⚠️ Miley Combs (16 LWP), Gregory Carr (10 LWP) |
-| 4 | Are any employees never coming in? | ❌ 3 employees: 0 office days across all 3 months |
+| 1 | Is WFH adoption under control? | ❌ No — grew grew 26.7% in 3 months (9.4% → 11.9%), breaching 25% policy |
+| 2 | Why is absenteeism cost rising? | ❌ LWP grew 72% (21.5 → 37 days) from Apr to Jun (21 → 37 days) |
+| 3 | Who are the top flight risks? | ⚠️ Gustavo Ritter (61 WFH), Maximus Mckenzie (33 WFH), 
+Alexander Davenport (22 WFH), Zaiden Wheeler (13 WFH),
+Gregory Carr (11 WFH), Leslie Navarro (11 WFH), Makai Hardy (10 WFH) |
+| 4 | Are any employees never coming in? | ❌ 7  employees with zero office presence: 0 office days across all 3 months |
 | 5 | Is sick leave linked to absenteeism? | ✅ Partially — 2 different employee clusters found |
 
 ---
@@ -41,7 +43,7 @@ These are insights that only surface when you go beyond surface-level reporting:
 Leave Without Pay grew from 21.5 days (April) to 37 days (June) — a **72% increase** in just 2 months. Financial productivity bleed estimated at ₹2.1L+.
 
 **🔴 Finding 2 — WFH Policy Breach**  
-Company WFH% grew 9.4% → 11.5% → 11.9% across 3 months — **breaching the 25% threshold** with no enforcement action recorded.
+Company WFH% grew 26.7% in 3 months (9.4% → 11.9%) — **breaching the 25% threshold** with no enforcement action recorded.
 
 **🔴 Finding 3 — Miley Combs Flight Risk**  
 16 LWP days. Zero sick leave. Zero WFH. Attendance declining every month. Pattern indicates **willful disengagement**, not illness — requires immediate 1:1 intervention.
@@ -67,7 +69,7 @@ Scatter analysis revealed 2 distinct employee clusters:
 
 | Layer | Tool / Technique |
 |-------|-----------------|
-| Data Source | Excel (.xlsx) — 3 monthly sheets, 16 attendance codes |
+| Data Source | Excel (.xlsx) — 3 monthly sheets, 15 attendance codes |
 | Data Cleaning | Power Query — Append, unpivot, null handling, date formatting |
 | Data Modeling | Star schema — Calendar table, Main Attendance table, relationship setup |
 | DAX Measures | 15+ measures — WFH%, LWP Days, Burnout Score, Risk Score, Dynamic Insight Text, Absenteeism Cost |
