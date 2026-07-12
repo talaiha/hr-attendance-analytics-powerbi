@@ -83,14 +83,18 @@ Scatter analysis revealed 2 distinct employee clusters:
 ### Page 1 — C-Suite Executive Insights
 *"Give me the numbers — fast."*
 
+![Page 1 - Executive Overview](Screenshots/page1_executive_overview.png)
+
 - 5 KPI Cards (Presence%, WFH%, Absenteeism Cost, LWP Days, MoM Growth)
 - Combo Chart — Absenteeism Cost vs Burnout Score by Month
 - 100% Stacked Bar — Attendance composition drift Apr→Jun
 - Line + Column — Day-of-week WFH pattern (Friday exposed)
 - Dynamic Insight Strip — Auto-updating strategic alert text
 
-### Page 2 — The Bombshell Breakdown
+### Page 2 — The Root Cause Analyses
 *"Tell me who, why, and what to do."*
+
+![Page 2 - Bombshell Breakdown](Screenshots/page2_bombshell_breakdown.png)
 
 - Risk Leaderboard Matrix — Top 10 employees, heat-colored by risk score
 - Scatter Chart — SL vs LWP correlation (health vs willful absence)
