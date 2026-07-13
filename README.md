@@ -1,5 +1,7 @@
 # 📊 HR Attendance & Workforce Productivity Dashboard
 
+<img width="892" height="498" alt="image" src="https://github.com/user-attachments/assets/324ea2d3-85b1-49e8-bc2e-7cdeb7383442" />
+
 ### Power BI | DAX | Power Query | SQL | Excel
 
 > **Executive HR Analytics Case Study**
@@ -30,18 +32,21 @@ AtliQ Technologies needed a reporting solution that could answer critical workfo
 
 ---
 
-# 📸 Dashboard Preview
+# 📷 Dashboard Preview
 
-## Executive Overview
+## 📄 Page 1 — Executive Overview
 
-*(Insert Page 1 Screenshot Here)*
+<img width="892" height="498" alt="image" src="https://github.com/user-attachments/assets/83e5bd03-fd44-42e3-b711-544f11ecbb26" />
 
-## Workforce Risk Analysis
-
-*(Insert Page 2 Screenshot Here)*
+> **Purpose:** Provides C-suite executives with a high-level view of workforce attendance, absenteeism trends, WFH adoption, and productivity KPIs.
 
 ---
 
+## 📄 Page 2 — Workforce Risk Analysis
+
+<img width="896" height="506" alt="image" src="https://github.com/user-attachments/assets/71fdd6a6-5043-4c73-aa3a-993eaa64cd07" />
+
+> **Purpose:** Identifies high-risk employees, attendance anomalies, burnout indicators, and actionable workforce insights to support HR decision-making.
 # 📈 Key Insights
 
 ### 📌 1. Leave Without Pay Increased by 72%
